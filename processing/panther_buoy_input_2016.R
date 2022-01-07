@@ -6,12 +6,8 @@
 #* PROJECT: Panther Pond datalogger data                             *
 #* PURPOSE: collate raw data files downloaded from all data          *
 #*          loggers. display data from downloads                     *
-#* LAST UPDATED: 19Jul2018  <- this should match the date in the     * 
-#* BY:      B. Steele       <- update this with your name            *
-#* UPDATES: NA              <- update this field with any comments   *
-#*                             pertinent to the update               *
 
-#v 2022-01-06 BGS: updated DO data to have saturation values. updating workflow to draw data files from dropbox and scripts in GH.
+#v 2022-01-06 BGS: updating workflow to draw data files from dropbox and scripts in GH.
 
 # SET UP WORKSPACE ----
 
